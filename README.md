@@ -1,5 +1,5 @@
  # Hello, I'm Maria Elissa 
-<img align="right" alt="css" height="118" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="right" alt="css" height="110" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
  
  ~~~C++
  #include <iostream>
