@@ -11,6 +11,9 @@
 <img src="https://raw.githubusercontent.com/ma-elissa/ma-elissa/output/snake.svg" alt="Snake animation" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-elissa&bg_color=141321&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&title_color=ffffff&custom_title_size=22&width=300&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ### Technologies
 
 | Languages | Frameworks | Tools | Databases | Operating Systems | IDEs/Editors | Version Control |
