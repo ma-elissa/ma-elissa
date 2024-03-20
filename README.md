@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maria Elissa</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋+!+My+name+is+Maria+Elissa;I'm+from+Brazil;)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ma-elissa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="155" alt="stats graph"  />
