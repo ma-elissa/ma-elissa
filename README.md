@@ -1,11 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋+!+My+name+is+Maria+Elissa;I'm+from+Brazil;)](https://git.io/typing-svg)
 
 
-
 <div align="center">
-  <a href="https://github.com/fernandacostads">
-  <img height="183em" width="45%" src="https://github-readme-stats.vercel.app/api?username=ma-elissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="183em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-elissa&layout=compact&langs_count=7&theme=radical"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=ma-elissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="175" alt="stats graph"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-elissa&layout=compact&langs_count=7&theme=radical" height="175" alt="stats graph"/>
 </div>
 
 <div align="center">
