@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋+!+My+name+is+Maria+Elissa;I'm+from+Brazil;)](https://git.io/typing-svg)
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ma-elissa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ma-elissa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="155" alt="languages graph"  />
+  <a href="https://github.com/fernandacostads">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=ma-elissa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma-elissa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
@@ -24,8 +27,6 @@
  ### Contacts
  
   <div align="left">
-  
-
   <a href = "mailto:elissasousx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="33" target="_blank"></a>
   <img width="20" />
   <a href="https://www.linkedin.com/in/elissatavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="33" target="_blank"></a> 
