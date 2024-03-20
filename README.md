@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ma-elissa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+![Snake animation](https://github.com/ma-elissa/ma-elissa/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 ###
 
@@ -15,14 +17,6 @@
 ###
 -->
 
-
-<div style="display: inline">
-         
- 
-</div>
-
-
-<!---![Snake animation](https://github.com/ma-elissa/ma-elissa/blob/output/github-contribution-grid-snake.svg)-->
 ### 💻 Skills
 
 <div style="display: inline">
