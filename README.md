@@ -11,8 +11,6 @@
 <img src="https://raw.githubusercontent.com/ma-elissa/ma-elissa/output/snake.svg" alt="Snake animation" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-elissa&bg_color=141321&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&title_color=ffffff&custom_title_size=22&width=300&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ### Technologies
 
@@ -20,6 +18,7 @@
 |-----------|------------|-------|-----------|-------------------|--------------|----------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"> | <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40px" height="35px"> <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40px" height="35px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40px" height="35px"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="45px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40px" > | <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40px"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40px" height="35px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40px"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"> |
 
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ma-elissa&bg_color=141321&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&title_color=ffffff&custom_title_size=22&width=300&height=250)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
  ### Contacts
