@@ -11,37 +11,16 @@
 <img src="https://raw.githubusercontent.com/ma-elissa/ma-elissa/output/snake.svg" alt="Snake animation" />
 </div>
 
+### Technologies
 
-## Skill Set 
+| Languages | Frameworks | Tools | Databases | Operating Systems | IDEs/Editors | Version Control |
+|-----------|------------|-------|-----------|-------------------|--------------|----------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"> | <img src="https://cdn.simpleicons.org/spring/6DB33F" width="40px"> <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="40px"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" width="40px"> | <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" width="40px"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40px"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" width="40px"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"> |
 
-These are some of the major technologies that I use or have worked on in the past:
 
-**Programming Languages**
 
-<img title="Java" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />|<img alt="Kotlin" title="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo">|<img alt="Python" title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" height="35">|<img title="C" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30">
-|--|--|--|--|
-
-**Libraries and Frameworks**
-
-<img title="Spring" alt="Spring" width="40px" src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo">|<img title="selenium" alt="selenium" width="40px" src="https://cdn.simpleicons.org/selenium/43B02A" height="30" alt="selenium logo">|<img title="junit" alt="junit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" height="30" alt="junit">
-|--|--|--
-
-**Infrastructure**
-
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">
-|--|--
-
-**Databases**
-
-<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="postgresql" alt="postgresql" width="40px" src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo">
-|--|--
-
-**Tools**
-
-<img title="Debian" alt="Debian" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg">|<img title="Intellij" alt="Intellij" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-|--|--|--|--
-
- ## Contacts
+ ### Contacts
+ 
   <div align="left">
   <a href = "mailto:elissasousx@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank"></a>
   <img width="20" />
