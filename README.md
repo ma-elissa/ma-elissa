@@ -2,14 +2,14 @@
 
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=elissa-tavares&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="157" alt="stats graph"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elissa-tavares&layout=compact&langs_count=7&theme=radical" height="157" alt="stats graph"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=elissatavares&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="157" alt="stats graph"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elissatavares&layout=compact&langs_count=7&theme=radical" height="157" alt="stats graph"/>
 </div>
 
 <div align="center">
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/elissa-tavares/elissa-tavares/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/elissatavares/elissatavares/output/snake.svg" alt="Snake animation" />
 </div>
 
 
